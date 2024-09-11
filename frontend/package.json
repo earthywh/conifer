@@ -80,7 +80,7 @@
     "react-redux": "^5.1.1",
     "react-router-breadcrumbs-hoc": "github:m4rk3r/react-router-breadcrumbs-hoc#dist",
     "react-router-config": "^4.4.0-beta.6",
-    "react-router-dom": "^4.4.0-beta.6",
+    "react-router-dom": "^6.0.0",
     "react-rte": "^0.16.1",
     "react-tabs": "^2.3.0",
     "react-toggle": "^4.0.2",
