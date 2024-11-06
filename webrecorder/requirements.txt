@@ -10,3 +10,4 @@ har2warc>=1.0.4
 fakeredis<1.0
 apispec<1.0
 psutil
+gevent>=24.10.1 # not directly required, pinned by Snyk to avoid a vulnerability
